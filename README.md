@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ganesh More and Welcome to my GitHub!
+### Hello there 👋 I'm Ganesh More and Welcome to my GitHub!
 
 I am a seasoned Product Analyst at Viasat Aviation, specializing in data analysis, customer service, and technical documentation. My focus is on creating impactful dashboards and reports from our CRM system to enhance T-Mobile's customer service efficiency. I excel in educating teams on SuccessFactors Learning, producing product documentation, and addressing critical issues for clients.
 
