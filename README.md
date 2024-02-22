@@ -62,8 +62,8 @@ Proficient in Microsoft Excel, SQL, and data visualization, I bring a track reco
 * Power BI Essential TrainingPower BI Essential Training
 
 
-* Data Analytics: Dashboards vs. Data StoriesData Analytics: Dashboards vs. Data Stories
-* Data Analytics: Graph AnalyticsData Analytics: Graph Analytics
+* Data Analytics: Dashboards vs. Data Stories
+* Data Analytics: Graph Analytics
 * Data Visualization in Python with DashData Visualization in Python with Dash
 
 * SQL for Data AnalysisSQL for Data Analysis
@@ -71,10 +71,10 @@ Proficient in Microsoft Excel, SQL, and data visualization, I bring a track reco
 
 * Telling Stories with DataTelling Stories with Data
 
-* Fundamental of Digital MarketingFundamental of Digital Marketing
+* Fundamental of Digital Marketing
 * Google Digital GarageGoogle Digital Garage
-* Fundamental of Digital MarketingFundamental of Digital Marketing
-* Google Digital UnlockedGoogle Digital Unlocked
+* Fundamental of Digital Marketing
+* Google Digital Unlocked
 
 * Google Analytics for Business logo
 * Google Analytics 360Google Analytics 360
@@ -85,16 +85,16 @@ Proficient in Microsoft Excel, SQL, and data visualization, I bring a track reco
 * Google Analytics for BusinessGoogle Analytics for Business
 
 * Google Analytics for Business logo
-* Google Analytics for Power UserGoogle Analytics for Power User
-* Google Analytics for BusinessGoogle Analytics for Business
+* Google Analytics for Power User
+* Google Analytics for Business
 
 * Sport Ireland logo
 * Sport Ireland COVID-19 OfficerSport Ireland COVID-19 Officer
 * Sport IrelandSport Ireland
 
-* Sport Ireland COVID-19 Return to SportSport Ireland COVID-19 Return to Sport
-* Sport IrelandSport Ireland
-
+* Sport Ireland COVID-19 Return to Sport
+* Sport Ireland
+  
 > ## Projects
 
 * Credit Card Fraud Detection Using Machine Learning
